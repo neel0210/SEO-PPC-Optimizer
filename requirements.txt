@@ -1,0 +1,14 @@
+# Data Analysis and Manipulation
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# API Connectivity 
+google-api-python-client>=2.80.0
+google-auth-oauthlib>=1.0.0
+
+# Utilities
+python-dotenv>=1.0.0
